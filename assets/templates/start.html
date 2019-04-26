@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Questions</title>
+        <script src="/static/jquery.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet">
+        <style>
+            body {
+                background-image: url("/static/images/questions_bg_final.jpg");
+                font-family: 'Acme','sans-serif';
+            }
+            #base {
+            	text-align: center;
+            	margin-left: 40px;
+                margin-top: 40px;
+                width: 860px;
+            }
+            #qn {
+                width: 860px;
+                height: 350px;
+                border: 2px solid slateblue;
+                border-radius: 10px;
+            }
+            #next {
+                margin-top: 35px;
+                /*margin-left: 150px;*/
+                width: 250px;
+                height: 50px;
+                background-color: transparent;
+                color: cyan;
+                font-size: 25px;
+                border-radius: 14px;
+                display: inline-block;
+                box-shadow: 0px 0px 18px 4px rgba(255,255,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+                /*width: 200px;*/
+                border: 3px solid yellow;
+            }
+            #next:hover {
+                box-shadow: 0px 0px 22px 4px rgba(255,255,0,0.7), 0 17px 50px 0 rgba(0,0,0,0.19);
+            }
+            #logout {
+                width: 140px;
+                height: 40px;
+                font-size: 30px;
+                color: orange;
+                border: 1px solid red;
+                background-color: #00000000;
+                border-radius: 6px;
+                display: inline-block;
+                box-shadow: 0px 0px 18px 4px rgba(255,0,0,0.3), 0 6px 20px 0 rgba(0,0,0,0.19);
+            }
+            #logout:hover {
+                box-shadow: 0px 0px 22px 4px rgba(255,0,0,0.7), 0 17px 50px 0 rgba(0,0,0,0.19);
+            }
+            canvas {
+                margin-top: 90px;
+                margin-left: 10px;
+                z-index: 1;
+                /*border: 2px solid yellow;*/
+            }
+            p {
+                font-family: "Helvetica";
+                color: white;
+                margin-left: 15px;
+                font-size: 25px;
+            }
+            #in{
+                text-align: center;
+                margin: 50px 150px;
+                font-size: 20px;
+                /*position: fixed;*/
+                /*z-index: 1;*/
+                border: 1px solid red;
+                border-radius:4px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- <div id="Timer"></div> -->
+        <div>
+            <canvas id="canvas"/>
+        </div>
+        <div id="base">
+	        <div id="qn">
+	            <p id="questions"></p>
+	        </div>
+	        <button id="next">NEXT</button>
+    	    <script type="text/javascript" src="/static/start.js"></script>
+	    </div>
+    </body>
+</html>

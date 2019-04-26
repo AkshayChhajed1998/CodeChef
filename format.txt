@@ -1,0 +1,18 @@
+﻿<span>Input:<b>SUMMATION</b>Output: <b>21</b><br>Input: <b>COMPUTER</b><br>Output: <b>8</b></span>
+<span>Input: <b>121 232 123 523 120<b>Output : <b>121 232</b><br>Input: <b>431  444 711 921 313</b><br>Output: <b>444 313</b></span>				
+<span>Input: <b>12 4</b><br>Output : <b>yes</b><br>Input: <b>11 70</b><br>Ouyput: <b>yes</b><br>Input: <b>30 12</b><br>Output: <b>no</b></span>
+<span>Input: <br>2 4 3 5 6 -2 7 8 9</br><br>Output :<br>{2 ,5 } { 4,3,} {-2,9}</br><br>Input: <br>0 14 4 7 8 3 5 -3</br><br>Output : <br>{ 4,7},{3,8},{14,-3}</span>br></span>
+<span>Input: number</b><br>Output: <b>14</b><br>Input: <b>position</b><br>Output: <b>1356</b><br>Soltuion: <b>positon of vowels in string</b></span>
+<span>Input: <b>1,4,9,16,36,49,81</b><br>Output: <b>25 64</b></span>
+<span>Input: <b>1.{ 2,8,34,23,12,43} 2.{ 34,23,12,5,8,2}</b><br>Output : <b>{2,8,34,23,12}</b></span>
+<span>Input: 1A3f#</b><br>Output: <b>49655110335</b><br>Input: 	<b>@2Hii.</b><br>Output: <b>6450737474</b></span>
+<span><b>Repeated Characters of String</b><br><b>Programming  [2 2 2 ]</b><br>   <b>Combination  [2 2 2]</b><br><b>Java [2]</b></span>
+<span>Reverse string<br>Input  :<b>the world is awesome</b><br>Output: <b>emosewa si dlrow eht</b></span>
+<span>Binary multiplication of strings and print it<br>Enter string1 <b>00010001</b><br>Enter string2 <b>00010010</b><br>Binary mul of <b>number is 00010010</b><br>Enter string1 <b>000110001</b><br>Enter string2 <b>1001010</b><br>Binary mul of number is <b>111000101010</b></span>
+<span>2s Complement<br>I/P:<b>1100</b><br>O/P:<b>0100</b><br>I/P:<b>0111</b><br>O/P:<b>1001</b></span>
+<span>Matrix Multiplication<br>Input : X = <b>[[1, 7, 3],[3, 5, 6],[6, 8, 9]]</b><br><br>Y = [[1, 1, 1, 2],</b><br>[6, 7, 3, 0],</b><br>[4, 5, 9, 1]]</b><br><br>Output : <b>[55, 65, 49, 5][57, 68, 72, 12][90, 107, 111, 21]<b></span>
+<span>Printing string in plus ‘+’ pattern in the matrix<br>Input: TOP<br>Output:<br><br>  <b>X    T    X</b><br><b>T    O    P</b><br><b>X    P    X</b><br>Input: FEVER<br>Output:<br><br><b>X    X    F    X    X</b><br><b>X    X    E    X    X</b><br><b>F    E    V    E    R</b><br><b>X    X    E    X    X</b><br><b>X    X    R    X    X</b></span><span>Print number of words, vowels<br>Input : How Good GOD Is.<br>Output :<b><br>Number of words = 4<br>Number of vowels = 5<br>Number of upper case characters = 6</b></span>
+<span>Input: <b>CONVERT</b><br>Output :<b>351412258102</b><br>Input: <b>FIND</b><br>output: 69414</span>
+<span>Input: <b>DISTANCE</b><br>Output: <b>5811913112</b><br>Input: <b>GAP</b><br>OUTPUT: <br>615</b></span>
+<spant>Input: <b>5 3 4</b><br>Output: <b>Yes</b><br>Input: <b>55 54 1</b><br>Output: <b>No</b><br>Input: <b>3 3 3</b><br>Output: <b>Yes</b></span>
+<span>Input: <b>12 7 3</b><br>Output: <b>1</b><br>Input: <b>14 15 8</b><br>Output: <b>5</b></span>
